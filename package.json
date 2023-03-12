@@ -1,0 +1,29 @@
+{
+  "name": "@amariuson/eslint-config-moment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "eslintConfig": {
+    "extends": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amariuson/eslint-config-moment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amariuson/eslint-config-moment/issues"
+  },
+  "homepage": "https://github.com/amariuson/eslint-config-moment#readme",
+  "dependencies": {
+    "eslint-plugin-import": "^2.27.5"
+  },
+  "peerDependencies": {
+    "eslint": "^8.34.0"
+  }
+}
