@@ -5,7 +5,7 @@ module.exports = {
       {
         "paths": [{
           "name": "moment",
-          "message": "The date library moment is not allowed."
+          "message": "Use date-fns instead."
         }]
       }
     ]
